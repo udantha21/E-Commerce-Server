@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@dotenvx/dotenvx": "^1.42.0",
+    "@dotenvx/dotenvx": "^1.44.2",
     "cors": "^2.8.5",
     "crypto": "^1.0.1",
     "express": "^5.1.0",
